@@ -1,7 +1,7 @@
 {
   "name": "Mobile-Alerts Gateway",
   "version": "0.0.7",
-  "slug": "mobile_alerts",
+  "slug": "mobile_alerts_gateway",
   "description": "Config tool and MQTT bridge for Mobile-Alerts Gateway",
   "url": "https://github.com/uniko92/mobile_alerts_gateway",
   "webui": "http://[HOST]:[PORT:8003]",
